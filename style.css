@@ -1,6 +1,6 @@
 @font-face {
   font-family: "GL";
-  src: url("/GL.otf");
+  src: url("./GL.otf");
 }
 body {
   margin: 0;
